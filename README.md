@@ -9,9 +9,6 @@ Mercury Package Management will improve this process by securing package informa
 
 ### Our Team
 
-Jake Boers  
-Emily Costa  
-Ben DeVries  
-Andrew Feikema  
-Coleman Ulry  
-Jack Westel  
+![Team Photo](GroupATeamPhoto.jpg)
+
+Jake Boers || Emily Costa || Ben DeVries || Andrew Feikema || Coleman Ulry || Jack Westel  
