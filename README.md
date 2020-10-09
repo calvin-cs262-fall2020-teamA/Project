@@ -20,7 +20,7 @@ Mercury Package Management will improve this process on two fronts: the deskie i
 8. Show a resident the packages that they have available to pick up and a history of ones they have already picked up.
 
 References to additional files:
-- Domain Model
+- [Domain Model](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/designModels/domainModel.md)
 - User Interface Model
 
 ## Our Team
