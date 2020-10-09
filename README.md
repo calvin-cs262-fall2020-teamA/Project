@@ -1,5 +1,7 @@
 # Project Mercury
 
+![Mercury logo](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/designModels/images/logo.png)
+
 ### *Streamlining dorm delivery for Calvin University*
 
 ## Our Vision
