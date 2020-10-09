@@ -1,3 +1,5 @@
+![Mercury logo](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/designModels/images/logo.png)
+
 # Project Mercury
 
 ### *Streamlining dorm delivery for Calvin University*
@@ -19,8 +21,12 @@ Mercury Package Management will improve this process on two fronts: the deskie i
 7. View a report of the entire database to see which packages are still in inventory and which have been picked up.
 8. Show a resident the packages that they have available to pick up and a history of ones they have already picked up.
 
+References to additional files:
+- [Domain Model](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/designModels/domainModel.md)
+- [User Interface Model](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/designModels/UIModel.md)
+
 ## Our Team
 
-![Team Photo](GroupATeamPhoto.jpg)
+![Team Photo](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/designModels/images/GroupATeamPhoto.jpg)
 
 Jake Boers || Emily Costa || Ben DeVries || Andrew Feikema || Coleman Ulry || Jack Westel  
