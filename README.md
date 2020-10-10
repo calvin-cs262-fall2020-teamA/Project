@@ -23,7 +23,7 @@ Mercury Package Management will improve this process on two fronts: the deskie i
 
 References to additional files:
 - [Domain Model](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/designModels/domainModel.md)
-- [User Interface Model](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/designModels/UIModel.md)
+- [User Interface Model](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/UIModel/UIModel.md)
 
 ## Our Team
 
