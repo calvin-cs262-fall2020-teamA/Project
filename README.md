@@ -16,7 +16,7 @@ Client application: [github.com/calvin-cs262-fall2020-teamA/Client](https://gith
 Data service: [github.com/calvin-cs262-fall2020-teamA/Service](https://github.com/calvin-cs262-fall2020-teamA/Service)
 
 References to additional files:
-- [Domain Model](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/designModels/domainModel.md)
+- [Domain Model](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/master/images/DomainModel.png)
 - [User Interface Model](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/update/updatedUIModel/images/UI-Model.png)
 
 ## Our Team
