@@ -17,7 +17,7 @@ Data service: [github.com/calvin-cs262-fall2020-teamA/Service](https://github.co
 
 References to additional files:
 - [Domain Model](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/designModels/domainModel.md)
-- [User Interface Model](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/UIModel/UIModel.md)
+- [User Interface Model](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/update/updatedUIModel/images/UI-Model.png)
 
 ## Our Team
 
