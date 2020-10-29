@@ -21,6 +21,6 @@ References to additional files:
 
 ## Our Team
 
-![Team Photo](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/update/updatedUIModel/images/logo.png)
+![Team Photo](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/master/images/GroupATeamPhoto.jpg)
 
 Jake Boers || Emily Costa || Ben DeVries || Andrew Feikema || Coleman Ulry || Jack Westel  
