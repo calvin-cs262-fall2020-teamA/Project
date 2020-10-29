@@ -1,4 +1,4 @@
-![Mercury logo](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/designModels/images/logo.png)
+![Mercury logo](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/update/updatedUIModel/images/logo.png)
 
 # Project Mercury
 
@@ -16,11 +16,11 @@ Client application: [github.com/calvin-cs262-fall2020-teamA/Client](https://gith
 Data service: [github.com/calvin-cs262-fall2020-teamA/Service](https://github.com/calvin-cs262-fall2020-teamA/Service)
 
 References to additional files:
-- [Domain Model](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/designModels/domainModel.md)
-- [User Interface Model](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/UIModel/UIModel.md)
+- [Domain Model](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/master/images/DomainModel.png)
+- [User Interface Model](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/update/updatedUIModel/images/UI-Model.png)
 
 ## Our Team
 
-![Team Photo](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/designModels/images/GroupATeamPhoto.jpg)
+![Team Photo](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/master/images/GroupATeamPhoto.jpg)
 
 Jake Boers || Emily Costa || Ben DeVries || Andrew Feikema || Coleman Ulry || Jack Westel  
