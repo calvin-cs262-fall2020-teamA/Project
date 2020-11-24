@@ -21,18 +21,18 @@ Before we begin, do you have any questions for me?
 
 2. General tasks - I’ll ask you to do some of the following tasks, depending upon how much time we have together:
 
-  A. Say you are a resident, and you want to know if you have any current packages to pick up. Can you navigate to the screen that would enable you to do this?
-  B. Say you are a resident, and you want to look at your package history. Can you navigate to the screen that would enable you to do this?
-  C. Say you are a resident, and you want to pick up your package today, but you don’t know the deskie hours. Can you find this information within the app?
-  D. Say you are a deskie, and you want to add a new package that the desk just received. Can you navigate to the screen that would enable you to do this?
-  E. Say you are a deskie, and you want to look at the packages that still need to be picked up by the residents. Can you navigate to the screen that would enable you to do this?
-  F. While at that screen, can you search for a package for the recipient whose email is "eac2"?
-  G. Say you are a deskie, and you want to see a history of all packages that have been at that desk. Can you navigate to the screen that would enable you to do this?
-  H. While at that screen, can you search for packages that the recipient "ajf34" has already picked up and/or are still waiting to be pick up?
-  I. Say you are a deskie, but you are also a resident, and you need to check to see if you personally have any packages to pick up. Can you navigate to the screen that would enable you to do this?
-  J. Say you are a deskie, and you want to enter a package for resident "Emily Costa", how would you do that?
-  K. Now, for that package for Emily, how would you enter the package as a large white envelope?
-  L. Say you are deskie, and you need to enter a new package, but you don't want to search for the resident; you want to manually enter the package information. How would you do this?
+  1. Say you are a resident, and you want to know if you have any current packages to pick up. Can you navigate to the screen that would enable you to do this?
+  2. Say you are a resident, and you want to look at your package history. Can you navigate to the screen that would enable you to do this?
+  3. Say you are a resident, and you want to pick up your package today, but you don’t know the deskie hours. Can you find this information within the app?
+  4. Say you are a deskie, and you want to add a new package that the desk just received. Can you navigate to the screen that would enable you to do this?
+  5. Say you are a deskie, and you want to look at the packages that still need to be picked up by the residents. Can you navigate to the screen that would enable you to do this?
+  6. While at that screen, can you search for a package for the recipient whose email is "eac2"?
+  7. Say you are a deskie, and you want to see a history of all packages that have been at that desk. Can you navigate to the screen that would enable you to do this?
+  8. While at that screen, can you search for packages that the recipient "ajf34" has already picked up and/or are still waiting to be pick up?
+  9. Say you are a deskie, but you are also a resident, and you need to check to see if you personally have any packages to pick up. Can you navigate to the screen that would enable you to do this?
+  10. Say you are a deskie, and you want to enter a package for resident "Emily Costa", how would you do that?
+  11. Now, for that package for Emily, how would you enter the package as a large white envelope?
+  12. Say you are deskie, and you need to enter a new package, but you don't want to search for the resident; you want to manually enter the package information. How would you do this?
 
 3. Final observations – What are your concluding thoughts? Did the app seem easy to use? Did the app have a nice feel to it? Was anything confusing to you as a first-time user?
 
