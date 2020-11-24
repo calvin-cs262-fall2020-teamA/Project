@@ -5,7 +5,7 @@
 ## Introduction
 Thank you for agreeing to do this usability test for our new app, Mercury. We would love to see first-hand how our users navigate around the app. Our goal is to make our app as user-friendly as possible.
 
-We’re testing the app, not you. You can’t do anything wrong here. We want to hear exactly what you're thinking, so don’t worry about hurting our feelings. Your contructive feedback will help us find problems, and it will help us to find a good solution.
+We’re testing the app, not you. You can’t do anything wrong here. We want to hear exactly what you're thinking, so don’t worry about hurting our feelings. Your constructive feedback will help us find problems and to solve them.
 
 For the test, we will ask you to think out loud as we ask you to complete certain tasks. If you have questions, just ask. If you have comments, go ahead and say them. We will record your comments, but we will not make them public. If, for any reason, you’d like to stop this test, just say so.
 
