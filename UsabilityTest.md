@@ -7,7 +7,7 @@ Thank you for agreeing to do this usability test for our new app, Mercury. We wo
 
 We’re testing the app, not you. You can’t do anything wrong here. We want to hear exactly what you're thinking, so don’t worry about hurting our feelings. Your constructive feedback will help us find problems and to solve them.
 
-For the test, we will ask you to think out loud as we ask you to complete certain tasks. If you have questions, just ask. If you have comments, go ahead and say them. We will record your comments, but we will not make them public. If, for any reason, you’d like to stop this test, just say so.
+For the test, we will ask you to think out loud as we ask you to complete specific tasks. If you have questions, just ask. If you have comments, go ahead and say them outloud. We will record your comments, but we will not make them public. If, for any reason, you’d like to stop this test, just say so.
 
 ## Background Questions
 We presume that you’re someone who owns a smartphone and are comfortable with using it. Are you currently living on Calvin University's Campus, or, have you in the past? Have you ever received a package and had to pick it up from the front desk? How was that process? Was there anything that caused some confusion? Was there anything that seemed unnecessarily difficult?
