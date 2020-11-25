@@ -21,12 +21,11 @@ Before we begin, do you have any questions for me?
 
 2. General tasks - I’ll ask you to do some of the following tasks, depending upon how much time we have together:
 
-<<<<<<< HEAD
-  1. Log in as a resident, use any username and password.
-  2. Say you are a resident, compelte the following tasks:
-    1. You want to know if you have any packages currently available for pick up. Find this information.
-    2. You want to see all of your packages, including ones that have already been picked up. Find this information.
-    3. You want to pick up your package today, but you don’t know the deskie hours. Find this information.
+    1. Log in as a resident, use any username and password.
+    2. Say you are a resident, compelte the following tasks:
+      1. You want to know if you have any packages currently available for pick up. Find this information.
+      2. You want to see all of your packages, including ones that have already been picked up. Find this information.
+      3. You want to pick up your package today, but you don’t know the deskie hours. Find this information.
   3. Log in as a deskie, use the username "deskie" and any password.
   4. Say you are a deskie, complete the following tasks:
     1. You want to add a new package that the desk just received. Can you navigate to the screen that would enable you to do this?
