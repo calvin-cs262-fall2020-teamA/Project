@@ -21,6 +21,7 @@ Before we begin, do you have any questions for me?
 
 2. General tasks - I’ll ask you to do some of the following tasks, depending upon how much time we have together:
 
+<<<<<<< HEAD
   1. Log in as a resident, use any username and password.
   2. Say you are a resident, compelte the following tasks:
     1. You want to know if you have any packages currently available for pick up. Find this information.
