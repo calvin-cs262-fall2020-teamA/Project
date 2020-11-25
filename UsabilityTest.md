@@ -33,7 +33,7 @@ Before we begin, do you have any questions for me?
             - While at that screen, you want to enter a new package, but you don't want to search for the resident; you want to manually enter the package information. How would you do this?
         2. You want to look at the packages that still need to be picked up by the residents. Can you navigate to the screen that would enable you to do this?
             - While at that screen, can you search for a package for the recipient whose email is "eac2"?
-        3. You want to see a history of all packages that have been at that desk. Can you navigate to the screen that would enable you to do this?
+        3. You want to see a list of all packages that have been at that desk. Can you navigate to the screen that would enable you to do this?
             - While at that screen, can you search for packages that the recipient "ajf34" has already picked up and/or are still waiting to be pick up?
         4. You are also a resident, and you need to check to see if you personally have any packages to pick up. Can you navigate to the screen that would enable you to do this?
 
