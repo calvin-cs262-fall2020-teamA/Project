@@ -29,8 +29,8 @@ Before we begin, do you have any questions for me?
     3. Log in as a deskie, use the username "deskie" and any password.
     4. Say you are a deskie, complete the following tasks:
         1. You want to add a new package that the desk just received. Can you navigate to the screen that would enable you to do this?
-            1. While at that screen, you want to enter a package for resident "Emily Costa", how would you do that? For that package for Emily, how would you enter the package as a large white envelope?
-            2. While at that screen, you want to enter a new package, but you don't want to search for the resident; you want to manually enter the package information. How would you do this?
+            - While at that screen, you want to enter a package for resident "Emily Costa", how would you do that? For that package for Emily, how would you enter the package as a large white envelope?
+            - While at that screen, you want to enter a new package, but you don't want to search for the resident; you want to manually enter the package information. How would you do this?
         2. You want to look at the packages that still need to be picked up by the residents. Can you navigate to the screen that would enable you to do this?
             - While at that screen, can you search for a package for the recipient whose email is "eac2"?
         3. You want to see a history of all packages that have been at that desk. Can you navigate to the screen that would enable you to do this?
