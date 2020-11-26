@@ -22,7 +22,7 @@ Before we begin, do you have any questions for me?
 2. General tasks - I’ll ask you to do some of the following tasks, depending upon how much time we have together:
 
     1. Log in as a resident, use any username and password.
-    2. Say you are a resident, compelte the following tasks:
+    2. Say you are a resident, complete the following tasks:
         1. You want to know if you have any packages currently available for pick up. Find this information.
         2. You want to see all of your packages, including ones that have already been picked up. Find this information.
         3. You want to pick up your package today, but you don’t know the deskie hours. Find this information.
@@ -38,7 +38,7 @@ Before we begin, do you have any questions for me?
         4. You are also a resident, and you need to check to see if you personally have any packages to pick up. Can you navigate to the screen that would enable you to do this?
 
 
-3. Final observations – What are your concluding thoughts? Did the app seem easy to use? Did the app have a nice feel to it? Was anything confusing to you as a first-time user?
+3. Final observations – What are your concluding thoughts? Did the app seem easy to use? Did the app have a nice feel to it? Was anything confusing to you as a first-time user? Would you consider using this app? If so, how would it be useful to you?
 
 ## Thank You
 Thank you for your willingness to help us test our new Mercury Package Management app. This app is relatively new, and we would love for Calvin's Residence Halls to use it. We value your feedback, and we apprecaite your time.
