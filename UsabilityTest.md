@@ -17,7 +17,7 @@ Or, are you or have you been a deskie at Calvin University? How is the process o
 Before we begin, do you have any questions for me?
 
 ## The Test
-1. Reactions to the Login Screen – Tell us your first impressions. Are you confused by anything? What are your eyes drawn to? Is it clear to you that you must first enter your information to sign in?
+1. Reactions to the Login Screen – Tell us your first impressions. Are you confused by anything? What are your eyes drawn to? Is it clear that first you must enter your information to sign in?
 
 2. General tasks - I’ll ask you to do some of the following tasks, depending upon how much time we have together:
 
