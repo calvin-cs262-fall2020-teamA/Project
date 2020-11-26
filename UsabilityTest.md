@@ -19,7 +19,7 @@ Before we begin, do you have any questions for me?
 ## The Test
 1. Reactions to the Login Screen – Tell us your first impressions. Are you confused by anything? What are your eyes drawn to? Is it clear that first you must enter your information to sign in?
 
-2. General tasks - I’ll ask you to do some of the following tasks, depending upon how much time we have together:
+2. General Tasks - I’ll ask you to do some of the following tasks, depending upon how much time we have together:
 
     1. Log in as a resident, use any username and password.
     2. Say you are a resident, complete the following tasks:
@@ -38,7 +38,7 @@ Before we begin, do you have any questions for me?
         4. You are also a resident, and you need to check to see if you personally have any packages to pick up. Can you navigate to the screen that would enable you to do this?
 
 
-3. Final observations – What are your concluding thoughts? Did the app seem easy to use? Did the app have a nice feel to it? Was anything confusing to you as a first-time user? Would you consider using this app? If so, how would it be useful to you?
+3. Final Observations – What are your concluding thoughts? Did the app seem easy to use? Did the app have a nice feel to it? Was anything confusing to you as a first-time user? Would you consider using this app? If so, how would it be useful to you?
 
 ## Thank You
 Thank you for your willingness to help us test our new Mercury Package Management app. This app is relatively new, and we would love for Calvin's Residence Halls to use it. We value your feedback, and we apprecaite your time.
