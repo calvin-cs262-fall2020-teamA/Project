@@ -31,7 +31,7 @@ Before we begin, do you have any questions for me?
         2. The desk has just received a large white envelop for Emily Costa (eac2). Can you add this to the system?
         3. You want to look at the packages that still need to be picked up by "eac2". Can you do this?
         4. You want to look at all packages that "ajf34" has already pickd up and are still waiting to be pickd up. Can you do this?
-        5. You are also a resident, and you need to check to see if you personally have any packages to pick up. Can you navigate to the screen that would enable you to do this?
+        5. You are also a resident, and you need to check to see if you personally have any packages to pick up. Can you do this?
 
 
 3. Final Observations – What are your concluding thoughts? Did the app have a nice feel to it? Was anything confusing to you as a first-time user? Would you consider using this app?
