@@ -17,35 +17,24 @@ Or, are you or have you been a deskie at Calvin University? How is the process o
 Before we begin, do you have any questions for me?
 
 ## The Test
-1. Reactions to the Login Screen – Tell us your first impressions. Are you confused by anything? What are your eyes drawn to? Is it clear to you that you must first enter your information to sign in?
+1. Reactions to the Login Screen – Tell us your first impressions. Are you confused by anything? What are your eyes drawn to?
 
-2. General tasks - I’ll ask you to do some of the following tasks, depending upon how much time we have together:
+2. General Tasks - I’ll ask you to do some of the following tasks, depending upon how much time we have together:
 
-   1. Say you are a resident, and you want to know if you have any current packages to pick up. Can you navigate to the screen that would enable you to do this?
+    1. Say you are a resident, complete the following tasks:
+        1. Log in as a resident, use any username and password.
+        2. You want to know if you have any packages currently available for pick up. Find this information.
+        3. You want to see all of your packages, including ones that have already been picked up. Find this information.
+        4. You want to pick up your package today, but you don’t know the deskie hours. Find this information.
+    2. Say you are a deskie, complete the following tasks:
+        1. Log in as a deskie, use the username "deskie" and any password.
+        2. The desk has just received a large white envelop for Emily Costa (eac2). Add this package to the system.
+        3. You want to look at the packages that still need to be picked up by "eac2". Find this information.
+        4. You want to look at all packages that "ajf34" has already pickd up and are still waiting to be pickd up. Find this information.
+        5. You are also a resident, and you need to check to see if you personally have any packages to pick up. Find this information.
 
-   2. Say you are a resident, and you want to look at your package history. Can you navigate to the screen that would enable you to do this?
 
-   3. Say you are a resident, and you want to pick up your package today, but you don’t know the deskie hours. Can you find this information within the app?
-
-   4. Say you are a deskie, and you want to add a new package that the desk just received. Can you find the button that would bring you to the screen to do this?
-
-   5. Say you are a deskie, and you want to look at the packages that still need to be picked up by the residents. Can you find the button that would enable you to do this? 
-
-   6. While at that screen, can you search for a package for the recipient whose email is "eac2"?
-
-   7. Say you are a deskie, and you want to see a history of all packages that have been at that desk. Can you navigate to the screen that would enable you to do this?
-
-   8. While at that screen, can you search for packages that the recipient "ajf34" has already picked up and/or are still waiting to be pick up?
-
-   9. Say you are a deskie, but you are also a resident, and you need to check to see if you personally have any packages to pick up. Can you navigate to the screen that would enable you to do this?
-
-   10. Say you are a deskie, and you want to enter a package for resident "Emily Costa", how would you do that?
-
-   11. Now, for that package for Emily, how would you enter the package as a large white envelope?
-
-   12. Say you are deskie, and you need to enter a new package, but you don't want to search for the resident; instead you want to manually enter the package information. How would you do this?
-
-3. Final observations – What are your concluding thoughts? Did the app seem easy to use? Did the app have a nice feel to it? Was anything confusing to you as a first-time user?
+3. Final Observations – What are your concluding thoughts? Did the app have a nice feel to it? Was anything confusing to you as a first-time user? Would you consider using this app?
 
 ## Thank You
 Thank you for your willingness to help us test our new Mercury Package Management app. This app is relatively new, and we would love for Calvin's Residence Halls to use it. We value your feedback, and we apprecaite your time.
