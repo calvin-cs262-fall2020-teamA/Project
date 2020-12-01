@@ -30,7 +30,7 @@ Before we begin, do you have any questions for me?
         1. Log in as a deskie, use the username "deskie" and any password.
         2. The desk has just received a large white envelop for Emily Costa (eac2). Add this package to the system.
         3. You want to look at the packages that still need to be picked up by "eac2". Find this information.
-        4. You want to look at all packages that "ajf34" has already pickd up and are still waiting to be picked up. Find this information.
+        4. You want to look at all packages that "ajf34" has already picked up and are still waiting to be picked up. Find this information.
         5. You are also a resident, and you need to check to see if you personally have any packages to pick up. Find this information.
 
 
