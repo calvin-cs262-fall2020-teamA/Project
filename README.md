@@ -18,6 +18,8 @@ Data service: [github.com/calvin-cs262-fall2020-teamA/Service](https://github.co
 References to additional files:
 - [Domain Model](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/master/assets/DomainModel.png)
 - [User Interface Model](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/master/assets/UIModel.png)
+- [Usability Test](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/master/UsabilityTest.md)
+- [Usability Test Report](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/master/UsabilityReport.md)
 
 ## Our Team
 
