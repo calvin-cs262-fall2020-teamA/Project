@@ -3,4 +3,4 @@
 
 ![UI Model Diagram](https://github.com/calvin-cs262-fall2020-teamA/Project/blob/master/assets/UIModel.png)
 
-Updated Dec. 1, 2020
+Updated Dec. 9, 2020
